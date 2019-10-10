@@ -39,3 +39,35 @@
   width: 800px;
   margin: 20px;
 }
+
+#isolatesSmall {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
+
+#isolatesLarge {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
+
+#under100Small {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
+
+#under100Large {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
