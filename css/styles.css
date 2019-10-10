@@ -1,0 +1,41 @@
+.jumbotron {
+  color: white;
+  background-color: #111e46; 
+}
+
+.btn {
+  color: white;
+  background-color: #111e46;
+}
+
+#isolatesUs {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
+
+#cartsIsolates {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
+
+#noSpecials {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
+
+#cartsUs {
+  display: none;
+  color: yellow;
+  background-color: #111e46;
+  width: 800px;
+  margin: 20px;
+}
